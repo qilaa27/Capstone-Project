@@ -4,7 +4,7 @@
 
 This capstone project aims to analyze a public dataset on sleep health and lifestyle. By combining Exploratory Data Analysis (EDA) with a Large Language Model (LLM), we extract meaningful insights and actionable recommendations to improve sleep quality.
 
-We use **IBM Granite 3.3-8B** through **LangChain + Replicate API** for AI-assisted analysis.
+I use **IBM Granite 3.3-8B** through **LangChain + Replicate API** for AI-assisted analysis.
 
 ---
 
